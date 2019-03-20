@@ -1,6 +1,3 @@
-.classpath
 
-/.settings/*
-/WebContent/upload/*
-/build/*
-.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
