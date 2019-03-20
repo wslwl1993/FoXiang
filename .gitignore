@@ -1,6 +1,5 @@
 .classpath
 
-/.settings
-/WebContent/upload
-/build
-
+/.settings/*
+/WebContent/upload/*
+/build/*
